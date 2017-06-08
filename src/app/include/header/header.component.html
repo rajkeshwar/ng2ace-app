@@ -1,0 +1,25 @@
+<div class="navbar navbar-default" id="navbar">
+
+  <div class="navbar-container" id="navbar-container">
+
+	<div class="navbar-header pull-left">
+	  <a class="navbar-brand" [routerLink]="['/dashboard']">
+		<small>
+			<i class="ng2v--logo"></i>
+			Ng2V Framework
+		</small>
+	  </a><!-- /.brand -->
+	</div><!-- /.navbar-header -->
+
+	<div class="navbar-header pull-right" role="navigation">
+	  <ul class="nav ace-nav">
+			<li class="grey" layout-topbar-tasks [tasks]="tasks" ng2vDropdown></li>
+			<li class="purple" layout-topbar-notifications [notifications]="notifications" ng2vDropdown></li>
+			<li class="green" layout-topbar-messages [messages]="messages" ng2vDropdown></li>
+			<li class="light-blue" layout-topbar-usermenu [usermenu]="usermenu" ng2vDropdown></li>
+	  </ul><!-- /.ace-nav -->
+	</div><!-- /.navbar-header -->
+
+  </div><!-- /.container -->
+
+</div> 

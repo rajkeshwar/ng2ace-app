@@ -1,0 +1,22 @@
+<div class="page-content">
+  <div class="source-view">
+    <div class="col-md-3">
+      <div class="source-tree" slim-scroll>
+        <ul ng2v-tree class="ng2v-tree-content"
+            (select2)="fileSelect($event)"
+            [data]="treeJson" 
+            [children]="'children'">
+        </ul>
+      </div>
+    </div>
+    <div class="col-md-9">
+      <div class="source-snippets" slim-scroll>
+        <pre class="language-html">
+          <code class="language-html" [innerHTML]="snippets"></code>
+        </pre>
+      </div>
+    </div>
+  </div>
+</div>
+
+

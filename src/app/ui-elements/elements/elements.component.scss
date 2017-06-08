@@ -1,0 +1,18 @@
+
+.tabs-below {
+    display: flex;
+    flex-direction: column;
+
+    ul[role='tablist'] {
+        order: 2;
+    }
+
+    .tab-content {
+        order: 1;
+    }
+}
+
+.tabs-left {
+    display: flex;
+    flex-direction: row;
+}

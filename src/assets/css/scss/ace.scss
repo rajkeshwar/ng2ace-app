@@ -1,0 +1,66 @@
+@import "bootstrap/variables.scss";
+@import "bootstrap/mixins.scss";
+
+@import "variables.scss";//there are also some variables on top of some other less files
+@import "mixins.scss";
+
+
+@import "general.scss";//includes general basic styling of page 
+@import "basic.scss";//includes styling of some elements such as pagination, etc
+@import "utility.scss";//includes some utility classes such as headers, colors, font sizing, etc
+@import "ace-nav.scss";//ace top navigation
+
+@import "breadcrumbs.scss";
+@import "searchbox.scss";
+@import "sidebar.scss";
+
+
+@import "buttons.scss";
+@import "label-badge.scss";
+@import "dropdown.scss";
+@import "form.scss";
+@import "tab-accordion.scss";
+@import "tables.scss";
+@import "widget.scss";
+@import "tooltip-popover.scss";
+@import "progressbar.scss";
+@import "infobox.scss";
+
+@import "page.pricing.scss";
+@import "page.login.scss";
+@import "page.invoice.scss";
+@import "page.error.scss";
+@import "gallery.scss";
+@import "items.scss";
+@import "page.profile.scss";
+@import "page.inbox.scss";
+@import "page.timeline.scss";
+
+
+@import "thirdparty-calendar.scss";
+@import "thirdparty-chosen.scss";
+@import "thirdparty-select2.scss";
+@import "thirdparty-colorbox.scss";
+@import "thirdparty-fuelux.scss";//fuelux spinner, tree & wizard
+@import "thirdparty-gritter.scss";
+@import "thirdparty-wysiwyg.scss";
+@import "thirdparty-editable.scss";
+
+@import "thirdparty-slider.scss";//jquery ui slider
+@import "thirdparty-jquery-ui.scss";//other jquery ui widgets & elements
+@import "thirdparty-jqgrid.scss";//jqGrid plugin
+@import "thirdparty-nestable.scss";//nestable list
+@import "thirdparty-dropzone.scss";//dropzone.js
+
+
+@import "icon-animated.scss";
+
+@import "other.scss";//setting box, etc
+
+@import "ext/bootstrap-tag.scss";//less files provided by the thirdparty plugin, sometimes modified
+
+
+@import "bs3-reset.scss";//resetting box-sizing to default content-box for third party elements
+
+
+@import "ace-responsive.scss";

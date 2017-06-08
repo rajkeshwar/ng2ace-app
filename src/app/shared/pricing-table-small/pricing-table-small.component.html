@@ -1,0 +1,28 @@
+<div class="pricing-span" *ngFor="let price of pricing">
+	<div class="widget-box pricing-box-small">
+		<div [attr.class]="'widget-header header-color-'+price['title-color']">
+			<h5 class="bigger lighter">{{price.title}}</h5>
+		</div>
+		<div class="widget-body">
+		 <div class="widget-main no-padding">
+			<ul class="list-unstyled list-striped pricing-table">
+				<li *ngFor="let value of price.values">
+          <i class="icon-ok green" [ngClass]="{
+            'icon-ok green': !value.unavailable,
+            'icon-remove red': value.unavailable
+          }"></i> {{value.name}} 
+        </li>
+			</ul>
+			
+			<div class="price">
+				<span class="label label-lg label-inverse arrowed-in arrowed-in-right">
+					{{price.price}}<small>/{{price.duration}}</small>
+				</span>
+			</div>
+		 </div>
+		 <div>
+			<a href="#" [attr.class]="'btn btn-block btn-sm btn-'+price['btn-color']"><span>Buy</span></a>
+		 </div>
+		</div>
+	</div>
+</div>

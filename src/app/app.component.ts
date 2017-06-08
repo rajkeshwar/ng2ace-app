@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Broadcaster } from './source-code/broadcaster';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'app works!';
+  
+  activeRoute( route:string ):boolean {
+      return new RegExp(route+'$').test(window.location.href);
+  }
+
 }

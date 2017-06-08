@@ -1,0 +1,1622 @@
+{
+  "path": "./src/app/shared",
+  "name": "shared",
+  "type": "folder",
+  "children": [
+    {
+      "path": "./src/app/shared/activity",
+      "name": "activity",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/activity/activity.component.css",
+          "name": "activity.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/activity/activity.component.html",
+          "name": "activity.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/activity/activity.component.spec.ts",
+          "name": "activity.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/activity/activity.component.ts",
+          "name": "activity.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/directives",
+      "name": "directives",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/directives/common.directive.ts",
+          "name": "common.directive.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/friends",
+      "name": "friends",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/friends/friends.component.css",
+          "name": "friends.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/friends/friends.component.html",
+          "name": "friends.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/friends/friends.component.spec.ts",
+          "name": "friends.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/friends/friends.component.ts",
+          "name": "friends.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/inbox",
+      "name": "inbox",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/inbox/inbox.component.css",
+          "name": "inbox.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/inbox/inbox.component.html",
+          "name": "inbox.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/inbox/inbox.component.spec.ts",
+          "name": "inbox.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/inbox/inbox.component.ts",
+          "name": "inbox.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/inbox-read",
+      "name": "inbox-read",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/inbox-read/inbox-read.component.css",
+          "name": "inbox-read.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/inbox-read/inbox-read.component.html",
+          "name": "inbox-read.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/inbox-read/inbox-read.component.spec.ts",
+          "name": "inbox-read.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/inbox-read/inbox-read.component.ts",
+          "name": "inbox-read.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/message-actions",
+      "name": "message-actions",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/message-actions/message-actions.component.css",
+          "name": "message-actions.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-actions/message-actions.component.html",
+          "name": "message-actions.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-actions/message-actions.component.spec.ts",
+          "name": "message-actions.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-actions/message-actions.component.ts",
+          "name": "message-actions.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/message-content",
+      "name": "message-content",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/message-content/message-content.component.css",
+          "name": "message-content.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-content/message-content.component.html",
+          "name": "message-content.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-content/message-content.component.spec.ts",
+          "name": "message-content.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-content/message-content.component.ts",
+          "name": "message-content.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/message-footer",
+      "name": "message-footer",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/message-footer/message-footer.component.css",
+          "name": "message-footer.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-footer/message-footer.component.html",
+          "name": "message-footer.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-footer/message-footer.component.spec.ts",
+          "name": "message-footer.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-footer/message-footer.component.ts",
+          "name": "message-footer.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/message-from",
+      "name": "message-from",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/message-from/message-from.component.css",
+          "name": "message-from.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-from/message-from.component.html",
+          "name": "message-from.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-from/message-from.component.spec.ts",
+          "name": "message-from.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-from/message-from.component.ts",
+          "name": "message-from.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/message-list",
+      "name": "message-list",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/message-list/message-list.component.css",
+          "name": "message-list.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-list/message-list.component.html",
+          "name": "message-list.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-list/message-list.component.spec.ts",
+          "name": "message-list.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-list/message-list.component.ts",
+          "name": "message-list.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/message-select",
+      "name": "message-select",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/message-select/message-select.component.css",
+          "name": "message-select.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-select/message-select.component.html",
+          "name": "message-select.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-select/message-select.component.spec.ts",
+          "name": "message-select.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-select/message-select.component.ts",
+          "name": "message-select.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/message-sort",
+      "name": "message-sort",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/message-sort/message-sort.component.css",
+          "name": "message-sort.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-sort/message-sort.component.html",
+          "name": "message-sort.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-sort/message-sort.component.spec.ts",
+          "name": "message-sort.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/message-sort/message-sort.component.ts",
+          "name": "message-sort.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/navbar",
+      "name": "navbar",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/navbar/navbar.component.css",
+          "name": "navbar.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/navbar/navbar.component.html",
+          "name": "navbar.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/navbar/navbar.component.spec.ts",
+          "name": "navbar.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/navbar/navbar.component.ts",
+          "name": "navbar.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/ng2v-components",
+      "name": "ng2v-components",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/ng2v-components/accordion",
+          "name": "accordion",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/accordion/accordion-config.spec.ts",
+              "name": "accordion-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/accordion/accordion-config.ts",
+              "name": "accordion-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/accordion/accordion.module.ts",
+              "name": "accordion.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/accordion/accordion.spec.ts",
+              "name": "accordion.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/accordion/accordion.ts",
+              "name": "accordion.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/alert",
+          "name": "alert",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/alert/alert-config.spec.ts",
+              "name": "alert-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/alert/alert-config.ts",
+              "name": "alert-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/alert/alert.module.ts",
+              "name": "alert.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/alert/alert.spec.ts",
+              "name": "alert.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/alert/alert.ts",
+              "name": "alert.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/buttons",
+          "name": "buttons",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/buttons/radio.module.ts",
+              "name": "radio.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/buttons/radio.spec.ts",
+              "name": "radio.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/buttons/radio.ts",
+              "name": "radio.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/carousel",
+          "name": "carousel",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/carousel/carousel-config.spec.ts",
+              "name": "carousel-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/carousel/carousel-config.ts",
+              "name": "carousel-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/carousel/carousel.module.ts",
+              "name": "carousel.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/carousel/carousel.spec.ts",
+              "name": "carousel.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/carousel/carousel.ts",
+              "name": "carousel.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/collapse",
+          "name": "collapse",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/collapse/collapse.module.ts",
+              "name": "collapse.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/collapse/collapse.spec.ts",
+              "name": "collapse.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/collapse/collapse.ts",
+              "name": "collapse.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/datepicker",
+          "name": "datepicker",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-config.spec.ts",
+              "name": "datepicker-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-config.ts",
+              "name": "datepicker-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-day-template-context.ts",
+              "name": "datepicker-day-template-context.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-day-view.spec.ts",
+              "name": "datepicker-day-view.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-day-view.ts",
+              "name": "datepicker-day-view.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-i18n.spec.ts",
+              "name": "datepicker-i18n.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-i18n.ts",
+              "name": "datepicker-i18n.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-input.spec.ts",
+              "name": "datepicker-input.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-input.ts",
+              "name": "datepicker-input.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-integration.spec.ts",
+              "name": "datepicker-integration.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-month-view.spec.ts",
+              "name": "datepicker-month-view.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-month-view.ts",
+              "name": "datepicker-month-view.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-navigation-select.spec.ts",
+              "name": "datepicker-navigation-select.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-navigation-select.ts",
+              "name": "datepicker-navigation-select.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-navigation.spec.ts",
+              "name": "datepicker-navigation.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-navigation.ts",
+              "name": "datepicker-navigation.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-service.spec.ts",
+              "name": "datepicker-service.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-service.ts",
+              "name": "datepicker-service.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker-view-model.ts",
+              "name": "datepicker-view-model.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker.module.ts",
+              "name": "datepicker.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker.spec.ts",
+              "name": "datepicker.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/datepicker.ts",
+              "name": "datepicker.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/hijri",
+              "name": "hijri",
+              "type": "folder",
+              "children": [
+                {
+                  "path": "./src/app/shared/ng2v-components/datepicker/hijri/ng2v-calendar-hijri.ts",
+                  "name": "ng2v-calendar-hijri.ts",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/datepicker/hijri/ng2v-calendar-islamic-civil.spec.ts",
+                  "name": "ng2v-calendar-islamic-civil.spec.ts",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/datepicker/hijri/ng2v-calendar-islamic-civil.ts",
+                  "name": "ng2v-calendar-islamic-civil.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/ng2v-calendar.spec.ts",
+              "name": "ng2v-calendar.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/ng2v-calendar.ts",
+              "name": "ng2v-calendar.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/ng2v-date-parser-formatter.spec.ts",
+              "name": "ng2v-date-parser-formatter.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/ng2v-date-parser-formatter.ts",
+              "name": "ng2v-date-parser-formatter.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/ng2v-date-struct.ts",
+              "name": "ng2v-date-struct.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/ng2v-date.spec.ts",
+              "name": "ng2v-date.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/datepicker/ng2v-date.ts",
+              "name": "ng2v-date.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/dropdown",
+          "name": "dropdown",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/dropdown/dropdown-config.spec.ts",
+              "name": "dropdown-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/dropdown/dropdown-config.ts",
+              "name": "dropdown-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/dropdown/dropdown.module.ts",
+              "name": "dropdown.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/dropdown/dropdown.spec.ts",
+              "name": "dropdown.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/dropdown/dropdown.ts",
+              "name": "dropdown.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/index.ts",
+          "name": "index.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/loader",
+          "name": "loader",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/loader/loader-component.sass",
+              "name": "loader-component.sass",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/loader/loader-component.ts",
+              "name": "loader-component.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/loader/loader-config.ts",
+              "name": "loader-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/loader/loader-module.ts",
+              "name": "loader-module.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/modal",
+          "name": "modal",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/modal/modal-backdrop.spec.ts",
+              "name": "modal-backdrop.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/modal/modal-backdrop.ts",
+              "name": "modal-backdrop.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/modal/modal-dismiss-reasons.ts",
+              "name": "modal-dismiss-reasons.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/modal/modal-ref.ts",
+              "name": "modal-ref.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/modal/modal-stack.ts",
+              "name": "modal-stack.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/modal/modal-window.spec.ts",
+              "name": "modal-window.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/modal/modal-window.ts",
+              "name": "modal-window.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/modal/modal.module.ts",
+              "name": "modal.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/modal/modal.spec.ts",
+              "name": "modal.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/modal/modal.ts",
+              "name": "modal.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/multiselect",
+          "name": "multiselect",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/multiselect/multiselect-config.ts",
+              "name": "multiselect-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/multiselect/multiselect.default-config.ts",
+              "name": "multiselect.default-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/multiselect/multiselect.html",
+              "name": "multiselect.html",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/multiselect/multiselect.module.ts",
+              "name": "multiselect.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/multiselect/multiselect.ts",
+              "name": "multiselect.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/multiselect/_multiselect.sass",
+              "name": "_multiselect.sass",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/pagination",
+          "name": "pagination",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/pagination/pagination-config.spec.ts",
+              "name": "pagination-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/pagination/pagination-config.ts",
+              "name": "pagination-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/pagination/pagination.module.ts",
+              "name": "pagination.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/pagination/pagination.spec.ts",
+              "name": "pagination.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/pagination/pagination.ts",
+              "name": "pagination.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/popover",
+          "name": "popover",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/popover/popover-config.spec.ts",
+              "name": "popover-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/popover/popover-config.ts",
+              "name": "popover-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/popover/popover.module.ts",
+              "name": "popover.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/popover/popover.spec.ts",
+              "name": "popover.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/popover/popover.ts",
+              "name": "popover.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/progressbar",
+          "name": "progressbar",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/progressbar/progressbar-config.spec.ts",
+              "name": "progressbar-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/progressbar/progressbar-config.ts",
+              "name": "progressbar-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/progressbar/progressbar.module.ts",
+              "name": "progressbar.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/progressbar/progressbar.spec.ts",
+              "name": "progressbar.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/progressbar/progressbar.ts",
+              "name": "progressbar.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/rating",
+          "name": "rating",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/rating/rating-config.spec.ts",
+              "name": "rating-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/rating/rating-config.ts",
+              "name": "rating-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/rating/rating.module.ts",
+              "name": "rating.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/rating/rating.spec.ts",
+              "name": "rating.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/rating/rating.ts",
+              "name": "rating.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/sidemenu",
+          "name": "sidemenu",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/sidemenu/sidemenu.component.html",
+              "name": "sidemenu.component.html",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/sidemenu/sidemenu.component.ts",
+              "name": "sidemenu.component.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/sidemenu/sidemenu.config.ts",
+              "name": "sidemenu.config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/sidemenu/sidemenu.module.ts",
+              "name": "sidemenu.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/sidemenu/_sidemenu.component.scss",
+              "name": "_sidemenu.component.scss",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/spinner",
+          "name": "spinner",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/spinner/spinner-component.scss",
+              "name": "spinner-component.scss",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/spinner/spinner-component.ts",
+              "name": "spinner-component.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/spinner/spinner-config.ts",
+              "name": "spinner-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/spinner/spinner-module.ts",
+              "name": "spinner-module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/spinner/spinners",
+              "name": "spinners",
+              "type": "folder",
+              "children": [
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/01-rotating-plane.scss",
+                  "name": "01-rotating-plane.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/02-double-bounce.scss",
+                  "name": "02-double-bounce.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/03-wave.scss",
+                  "name": "03-wave.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/04-wandering-cubes.scss",
+                  "name": "04-wandering-cubes.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/05-pulse.scss",
+                  "name": "05-pulse.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/06-chasing-dots.scss",
+                  "name": "06-chasing-dots.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/07-three-bounce.scss",
+                  "name": "07-three-bounce.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/08-circle.scss",
+                  "name": "08-circle.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/09-cube-grid.scss",
+                  "name": "09-cube-grid.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/10-fading-circle.scss",
+                  "name": "10-fading-circle.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/11-folding-cube.scss",
+                  "name": "11-folding-cube.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/12-linear-circle.scss",
+                  "name": "12-linear-circle.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/13-spin-circle.scss",
+                  "name": "13-spin-circle.scss",
+                  "type": "file"
+                },
+                {
+                  "path": "./src/app/shared/ng2v-components/spinner/spinners/_variables.scss",
+                  "name": "_variables.scss",
+                  "type": "file"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/tabset",
+          "name": "tabset",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/tabset/tabset-config.spec.ts",
+              "name": "tabset-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/tabset/tabset-config.ts",
+              "name": "tabset-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/tabset/tabset-material.scss",
+              "name": "tabset-material.scss",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/tabset/tabset.module.ts",
+              "name": "tabset.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/tabset/tabset.spec.ts",
+              "name": "tabset.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/tabset/tabset.ts",
+              "name": "tabset.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/test",
+          "name": "test",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/test/common.spec.ts",
+              "name": "common.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/test/common.ts",
+              "name": "common.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/test/datepicker",
+              "name": "datepicker",
+              "type": "folder",
+              "children": [
+                {
+                  "path": "./src/app/shared/ng2v-components/test/datepicker/common.ts",
+                  "name": "common.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/test/matchers.ts",
+              "name": "matchers.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/test/typeahead",
+              "name": "typeahead",
+              "type": "folder",
+              "children": [
+                {
+                  "path": "./src/app/shared/ng2v-components/test/typeahead/common.ts",
+                  "name": "common.ts",
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/test/typings",
+              "name": "typings",
+              "type": "folder",
+              "children": [
+                {
+                  "path": "./src/app/shared/ng2v-components/test/typings/custom-jasmine.d.ts",
+                  "name": "custom-jasmine.d.ts",
+                  "type": "file"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/timepicker",
+          "name": "timepicker",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/timepicker/ng2v-time-struct.ts",
+              "name": "ng2v-time-struct.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/timepicker/ng2v-time.spec.ts",
+              "name": "ng2v-time.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/timepicker/ng2v-time.ts",
+              "name": "ng2v-time.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/timepicker/timepicker-config.spec.ts",
+              "name": "timepicker-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/timepicker/timepicker-config.ts",
+              "name": "timepicker-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/timepicker/timepicker.module.ts",
+              "name": "timepicker.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/timepicker/timepicker.spec.ts",
+              "name": "timepicker.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/timepicker/timepicker.ts",
+              "name": "timepicker.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/toasty",
+          "name": "toasty",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/toasty/safehtml.ts",
+              "name": "safehtml.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/toasty/toast.component.ts",
+              "name": "toast.component.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/toasty/toasty.component.ts",
+              "name": "toasty.component.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/toasty/toasty.module.ts",
+              "name": "toasty.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/toasty/toasty.service.ts",
+              "name": "toasty.service.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/toasty/toasty.utils.ts",
+              "name": "toasty.utils.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/toasty/_toasty.component.scss",
+              "name": "_toasty.component.scss",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/toasty/_toasty.default.scss",
+              "name": "_toasty.default.scss",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/tooltip",
+          "name": "tooltip",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/tooltip/tooltip-config.spec.ts",
+              "name": "tooltip-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/tooltip/tooltip-config.ts",
+              "name": "tooltip-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/tooltip/tooltip.module.ts",
+              "name": "tooltip.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/tooltip/tooltip.spec.ts",
+              "name": "tooltip.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/tooltip/tooltip.ts",
+              "name": "tooltip.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/typeahead",
+          "name": "typeahead",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/typeahead/highlight.spec.ts",
+              "name": "highlight.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/typeahead/highlight.ts",
+              "name": "highlight.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/typeahead/typeahead-config.spec.ts",
+              "name": "typeahead-config.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/typeahead/typeahead-config.ts",
+              "name": "typeahead-config.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/typeahead/typeahead-window.spec.ts",
+              "name": "typeahead-window.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/typeahead/typeahead-window.ts",
+              "name": "typeahead-window.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/typeahead/typeahead.module.ts",
+              "name": "typeahead.module.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/typeahead/typeahead.spec.ts",
+              "name": "typeahead.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/typeahead/typeahead.ts",
+              "name": "typeahead.ts",
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "path": "./src/app/shared/ng2v-components/util",
+          "name": "util",
+          "type": "folder",
+          "children": [
+            {
+              "path": "./src/app/shared/ng2v-components/util/popup.ts",
+              "name": "popup.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/util/positioning.spec.ts",
+              "name": "positioning.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/util/positioning.ts",
+              "name": "positioning.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/util/triggers.spec.ts",
+              "name": "triggers.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/util/triggers.ts",
+              "name": "triggers.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/util/util.spec.ts",
+              "name": "util.spec.ts",
+              "type": "file"
+            },
+            {
+              "path": "./src/app/shared/ng2v-components/util/util.ts",
+              "name": "util.ts",
+              "type": "file"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/photos",
+      "name": "photos",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/photos/photos.component.css",
+          "name": "photos.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/photos/photos.component.html",
+          "name": "photos.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/photos/photos.component.spec.ts",
+          "name": "photos.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/photos/photos.component.ts",
+          "name": "photos.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/pricing-table-large",
+      "name": "pricing-table-large",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/pricing-table-large/pricing-table-large.component.css",
+          "name": "pricing-table-large.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/pricing-table-large/pricing-table-large.component.html",
+          "name": "pricing-table-large.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/pricing-table-large/pricing-table-large.component.spec.ts",
+          "name": "pricing-table-large.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/pricing-table-large/pricing-table-large.component.ts",
+          "name": "pricing-table-large.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/pricing-table-small",
+      "name": "pricing-table-small",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/pricing-table-small/pricing-table-small.component.css",
+          "name": "pricing-table-small.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/pricing-table-small/pricing-table-small.component.html",
+          "name": "pricing-table-small.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/pricing-table-small/pricing-table-small.component.spec.ts",
+          "name": "pricing-table-small.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/pricing-table-small/pricing-table-small.component.ts",
+          "name": "pricing-table-small.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/shared.module.ts",
+      "name": "shared.module.ts",
+      "type": "file"
+    },
+    {
+      "path": "./src/app/shared/stats",
+      "name": "stats",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/stats/stats.component.css",
+          "name": "stats.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/stats/stats.component.html",
+          "name": "stats.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/stats/stats.component.spec.ts",
+          "name": "stats.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/stats/stats.component.ts",
+          "name": "stats.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/tabs",
+      "name": "tabs",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/tabs/tabs.component.css",
+          "name": "tabs.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/tabs/tabs.component.html",
+          "name": "tabs.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/tabs/tabs.component.spec.ts",
+          "name": "tabs.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/tabs/tabs.component.ts",
+          "name": "tabs.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/timeline-style1",
+      "name": "timeline-style1",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/timeline-style1/timeline-style1.component.css",
+          "name": "timeline-style1.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/timeline-style1/timeline-style1.component.html",
+          "name": "timeline-style1.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/timeline-style1/timeline-style1.component.spec.ts",
+          "name": "timeline-style1.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/timeline-style1/timeline-style1.component.ts",
+          "name": "timeline-style1.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/timeline-style2",
+      "name": "timeline-style2",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/timeline-style2/timeline-style2.component.css",
+          "name": "timeline-style2.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/timeline-style2/timeline-style2.component.html",
+          "name": "timeline-style2.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/timeline-style2/timeline-style2.component.spec.ts",
+          "name": "timeline-style2.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/timeline-style2/timeline-style2.component.ts",
+          "name": "timeline-style2.component.ts",
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "path": "./src/app/shared/write-mail",
+      "name": "write-mail",
+      "type": "folder",
+      "children": [
+        {
+          "path": "./src/app/shared/write-mail/write-mail.component.css",
+          "name": "write-mail.component.css",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/write-mail/write-mail.component.html",
+          "name": "write-mail.component.html",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/write-mail/write-mail.component.spec.ts",
+          "name": "write-mail.component.spec.ts",
+          "type": "file"
+        },
+        {
+          "path": "./src/app/shared/write-mail/write-mail.component.ts",
+          "name": "write-mail.component.ts",
+          "type": "file"
+        }
+      ]
+    }
+  ]
+}

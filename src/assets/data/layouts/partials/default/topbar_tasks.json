@@ -1,0 +1,30 @@
+{
+   "count" : 4 ,
+   "latest" :
+   [
+	{
+		"title": "Software Update",
+		"percentage": 65
+	}
+ ,
+	{
+		"title": "Hardware Upgrade" ,
+		"percentage": 35 ,
+		"triped":true,
+		"progress-type": "danger"
+	}
+ ,
+	{
+		"title": "Unit Testing" ,
+		"percentage": 15  ,
+		"progress-type": "warning"
+	}
+ ,
+	{
+		"title": "Bug Fixes" ,
+		"percentage": 90 ,
+		"triped":true,
+		"progress-type": "success"
+	}
+   ]
+}

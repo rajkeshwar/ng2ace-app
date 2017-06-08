@@ -1,0 +1,25 @@
+<a  class="dropdown-toggle" ng2vDropdownToggle>
+  <i class="icon-bell-alt icon-animated-bell"></i>
+  <span class="badge badge-important">{{notifications.count}}</span>
+</a>
+<ul class="pull-right dropdown-navbar navbar-pink dropdown-menu dropdown-caret dropdown-close">
+  <li class="dropdown-header">
+    <i class="icon-warning-sign"></i> {{notifications.count}} Notifications
+  </li>
+
+  <li *ngFor="let notice of notifications.latest">
+    <a>
+      <div class="clearfix" *ngIf="notice.badge">
+        <span class="pull-left"><i class="btn btn-xs no-hover {{notice['icon-class']}} {{notice['icon']}}"></i> {{notice.title}}</span>
+        <span class="pull-right badge {{notice['badge-class']}}">{{notice.badge}}</span>					
+      </div>
+    </a>
+  </li>
+
+  <li>
+    <a>
+      See all notifications
+      <i class="icon-arrow-right"></i>
+    </a>
+  </li>
+</ul>

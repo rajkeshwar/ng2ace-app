@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Bob Doe",
+    "avatar": "avatar4.png",
+    "occupation": "Content Editor",
+    "time": "20 mins ago",
+    "status": "online"
+  },
+  {
+    "name": "Rose Doe",
+    "avatar": "avatar1.png",
+    "occupation": "Graphic Designer",
+    "time": "30 min ago",
+    "status": "offline"
+  },
+  {
+    "name": "Jim Doe",
+    "avatar": "avatar.png",
+    "occupation": "SEO & Advertising",
+    "time": "1 hour ago",
+    "status": "busy"
+  },
+  {
+    "name": "Alex Doe",
+    "avatar": "avatar5.png",
+    "occupation": "Marketing",
+    "time": "40 minutes idle",
+    "status": "idle"
+  },
+  {
+    "name": "Phil Doe",
+    "avatar": "avatar2.png",
+    "occupation": "Public Relations",
+    "time": "2 hours ago",
+    "status": "online"
+  },
+  {
+    "name": "Susan Doe",
+    "avatar": "avatar3.png",
+    "occupation": "HR Management",
+    "time": "20 mins ago",
+    "status": "online"
+  },
+  {
+    "name": "Jennifer Doe",
+    "avatar": "avatar1.png",
+    "occupation": "Graphic Designer",
+    "time": "2 hours ago",
+    "status": "offline"
+  },
+  {
+    "name": "Alexa Doe",
+    "avatar": "avatar3.png",
+    "occupation": "Accounting",
+    "time": "4 hours ago",
+    "status": "offline"
+  }
+]

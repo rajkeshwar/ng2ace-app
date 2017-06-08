@@ -1,0 +1,19 @@
+@import
+  "spinners/01-rotating-plane",
+  "spinners/02-double-bounce",
+  "spinners/03-wave",
+  "spinners/04-wandering-cubes",
+  "spinners/05-pulse",
+  "spinners/06-chasing-dots",
+  "spinners/07-three-bounce",
+  "spinners/08-circle",
+  "spinners/09-cube-grid",
+  "spinners/10-fading-circle",
+  "spinners/11-folding-cube",
+  "spinners/12-linear-circle",
+  "spinners/13-spin-circle";  
+
+  .ng2v-spinner {
+    display: flex;
+    justify-content: center;
+  }
